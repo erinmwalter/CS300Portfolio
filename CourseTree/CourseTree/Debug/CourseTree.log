@@ -1,0 +1,3 @@
+﻿  BinarySearchTree.cpp
+C:\Users\authe\source\repos\CourseTree\CourseTree\BinarySearchTree.cpp(46,31): warning C4018: '<': signed/unsigned mismatch
+  CourseTree.vcxproj -> C:\Users\authe\source\repos\CourseTree\Debug\CourseTree.exe
